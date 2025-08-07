@@ -92,9 +92,3 @@ It covers:
 - Model training & evaluation
 - WordCloud visualizations
 - Model saving with `joblib`
-
----
-
-## 🙌 Credits
-
-Made with ❤️ for **Elevvo Internship Task 1** by [@mohamedtaha77](https://github.com/mohamedtaha77)
