@@ -85,6 +85,10 @@ The full training pipeline is in the notebook:
 
 > [`Elevvo_NLP_Internship_Task1.ipynb`](./Elevvo_NLP_Internship_Task1.ipynb)
 
+And for better visibility, you can check it on Colab:
+
+> [`Elevvo_NLP_Internship_Task1.ipynb`]((https://colab.research.google.com/drive/1-VjoXPIX3mrjQONyJhEksj5HupEN3fvm?usp=sharing))
+
 It covers:
 - Dataset loading from HuggingFace
 - Text preprocessing
