@@ -17,11 +17,10 @@ It analyzes movie or product reviews and classifies them as **Positive** or **Ne
 ✅ Includes **notebook** for model training
 
 ---
+## 🔗 Live Demo
 
-## 🧪 Demo Screenshot
-
-> *(Add a screenshot of your running Streamlit app here)*  
-> Or deploy it and link it below.
+Try the app live here:  
+👉 [https://sentimentapp77.streamlit.app/](https://sentimentapp77.streamlit.app)
 
 ---
 
